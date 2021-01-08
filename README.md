@@ -3,4 +3,4 @@
 
 This repository contains the Jupyter notebooks, source data, and shapefiles that support my analysis of *Wine Spectator's Alphabetical Guide to Washington.*
 
-You can read more about the analysis, methods, and sources in my LinkedIn article.
+You can read more about the analysis, methods, and sources in my [LinkedIn article](https://www.linkedin.com/pulse/grapevine-plots-analysis-wine-spectators-alphabetical-wotawa/).
